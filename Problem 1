@@ -1,0 +1,13 @@
+# Life in Weeks Coding Excercise
+
+Problem:
+
+I was reading this article by Tim Urban - Your Life in Weeks and realized just how little time we actually have.
+In yhis challenge, you are going to create a function taht tells us that how many days, weeks and months we have left if we live untill 90 years old.
+
+It will take ypour current age as the input and conlose.logs a message with our time left in this format:
+You have X days, Y weeks, and Z months left. Where X,Y,Z are replaced with the accutual calculated numbers.
+
+For this challege, assume there are 365 days in a year 52 weeks in a year and 12 months in a year.
+
+# Write a code by creation a file namely index.js
